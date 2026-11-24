@@ -1,6 +1,6 @@
 # Hi there, I'm yoonah-me 👋
 
-![Profile GIF](https://raw.githubusercontent.com/fotedev/profile-assets/main/merged_profile_small.gif)
+![Profile GIF](https://raw.githubusercontent.com/fotedev/profile-assets/main/merged_equal.gif)
 
 ---
 
