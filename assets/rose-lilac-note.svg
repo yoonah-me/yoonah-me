@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="70" viewBox="0 0 320 70" role="img" aria-labelledby="note">
-  <title id="note">for @fotedev ♡ when the violet hours go quiet, my thoughts find their way back to you.</title>
+  <title id="note">some thoughts stay between the lines, like the reason i smiled at my screen just now. ♡</title>
   <style>
     .first { fill: #85375b; }
     .rest { fill: #70448b; }
@@ -9,7 +9,7 @@
     }
   </style>
   <g text-anchor="middle" font-family="Georgia, 'Palatino Linotype', Palatino, serif" font-size="15">
-    <text x="160" y="21" class="first">for @fotedev ♡</text>
-    <text class="rest" font-style="italic"><tspan x="160" y="41">when the violet hours go quiet,</tspan><tspan x="160" y="61">my thoughts find their way back to you.</tspan></text>
+    <text x="160" y="21" class="first">some thoughts stay between the lines,</text>
+    <text class="rest" font-style="italic"><tspan x="160" y="41">like the reason i smiled</tspan><tspan x="160" y="61">at my screen just now. ♡</tspan></text>
   </g>
 </svg>
