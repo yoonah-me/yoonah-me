@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/rose-lilac-note.svg" width="320" alt="some thoughts stay between the lines, like the reason i smiled at my screen just now. ♡">
+  <img src="./assets/rose-lilac-note.svg" width="320" alt="keeping the little things that make an ordinary day feel softer.">
 </p>
 
 <p align="center">

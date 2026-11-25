@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="70" viewBox="0 0 320 70" role="img" aria-labelledby="note">
-  <title id="note">some thoughts stay between the lines, like the reason i smiled at my screen just now. ♡</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="50" viewBox="0 0 320 50" role="img" aria-labelledby="note">
+  <title id="note">keeping the little things that make an ordinary day feel softer.</title>
   <style>
     .first { fill: #85375b; }
     .rest { fill: #70448b; }
@@ -9,7 +9,7 @@
     }
   </style>
   <g text-anchor="middle" font-family="Georgia, 'Palatino Linotype', Palatino, serif" font-size="15">
-    <text x="160" y="21" class="first">some thoughts stay between the lines,</text>
-    <text class="rest" font-style="italic"><tspan x="160" y="41">like the reason i smiled</tspan><tspan x="160" y="61">at my screen just now. ♡</tspan></text>
+    <text x="160" y="21" class="first">keeping the little things</text>
+    <text class="rest" font-style="italic"><tspan x="160" y="41">that make an ordinary day feel softer.</tspan></text>
   </g>
 </svg>
