@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/rose-lilac-note.svg" width="320" alt="a little corner for things i make, ideas i’m still playing with, and moments i’d like to keep.">
+  <img src="./assets/rose-lilac-note.svg" width="320" alt="for @fotedev ♡ when the violet hours go quiet, my thoughts find their way back to you.">
 </p>
 
 <p align="center">
