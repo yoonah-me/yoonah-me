@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="70" viewBox="0 0 320 70" role="img" aria-labelledby="note">
+  <title id="note">a little corner for things i make, ideas i’m still playing with, and moments i’d like to keep.</title>
+  <style>
+    .first { fill: #85375b; }
+    .rest { fill: #70448b; }
+    @media (prefers-color-scheme: dark) {
+      .first { fill: #efb6ce; }
+      .rest { fill: #d8c0ee; }
+    }
+  </style>
+  <g text-anchor="middle" font-family="Georgia, 'Palatino Linotype', Palatino, serif" font-size="15">
+    <text x="160" y="21" class="first">a little corner for things i make,</text>
+    <text class="rest" font-style="italic"><tspan x="160" y="41">ideas i’m still playing with,</tspan><tspan x="160" y="61">and moments i’d like to keep.</tspan></text>
+  </g>
+</svg>
