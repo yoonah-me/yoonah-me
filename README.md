@@ -1,10 +1,5 @@
 <p align="center">
-  <samp>yoon-ah</samp>
-</p>
-
-<p align="center">
-  <em>violet hours,<br>rose-tinted loops</em><br>
-  <sub>── ✦ ──</sub>
+  <img src="./assets/rose-lilac-title.svg" width="320" alt="yoon-ah. violet hours, rose-tinted loops.">
 </p>
 
 <p align="center">
@@ -12,5 +7,5 @@
 </p>
 
 <p align="center">
-  <sub><a href="https://github.com/yoonah-me?tab=repositories">repositories</a></sub>
+  <a href="https://github.com/yoonah-me?tab=repositories"><img src="./assets/rose-lilac-link.svg" width="112" alt="repositories"></a>
 </p>
